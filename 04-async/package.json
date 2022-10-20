@@ -2,5 +2,8 @@
   "name": "04-async",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
 }
